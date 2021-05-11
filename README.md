@@ -3,6 +3,4 @@
 
 *Only for Educational purpose*
 
-*Legal Disclaimer*
-
-I am not responsible for any illegal use
+**Legal Disclaimer** : Iam not responsible for any illegal use
